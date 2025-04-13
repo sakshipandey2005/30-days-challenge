@@ -1,0 +1,26 @@
+match_id,date,venue,team1,team2,stage,toss_winner,toss_decision,first_ings_score,first_ings_wkts,second_ings_score,second_ings_wkts,match_winner,won_by,balls_left,player_of_the_match,top_scorer,highscore,best_bowling,best_bowling_figure
+1,"March 22,2025","Eden Gardens, Kolkata",KKR,RCB,League,RCB,Bowl,174,8,177,3,RCB,7 wickets,22,Krunal Pandya,Virat Kohli,59,Krunal Pandya,3--29
+2,"March 23,2025","Rajiv Gandhi International Stadium, Hyderabad",SRH,RR,League,RR,Bowl,286,6,242,6,SRH,44 runs,0,Ishan Kishan,Ishan Kishan,106,Tushar Deshpande,3--44
+3,"March 23,2025","MA Chidambaram Stadium, Chennai",CSK,MI,League,CSK,Bowl,155,9,158,6,CSK,4 wickets,5,Noor Ahmad,Rachin Ravindra,65,Noor Ahmad,4--18
+4,"March 24,2025","ACA-VDCA Cricket Stadium, Vishakhapatnam",DC,LSG,League,DC,Bowl,209,8,211,9,DC,1 wickets,3,Ashutosh Sharma,Nicholas Pooran,75,Mitchell Starc,3--42
+5,"March 25,2025","Narendra Modi Stadium, Ahmedabad",GT,PBKS,League,GT,Bowl,243,5,232,5,PBKS,11 runs,0,Shreyas Iyer,Shreyas Iyer,97,Sai Kishore,3--30
+6,"March 26,2025","Barsapara Stadium, Guwahati",RR,KKR,League,KKR,Bowl,151,9,153,2,KKR,8 wickets,15,Quinton de Kock,Quinton de Kock,97,Varun Chakravarthy,2--17
+7,"March 27,2025","Rajiv Gandhi International Stadium, Hyderabad",SRH,LSG,League,LSG,Bowl,190,9,193,5,LSG,5 wickets,23,Shardul Thakur,Nicholas Pooran,70,Shardul Thakur,4--34
+8,"March 28,2025","MA Chidambaram Stadium, Chennai",CSK,RCB,League,CSK,Bowl,196,7,146,8,RCB,50 runs,0,Rajat Patidar,Rajat Patidar,51,Josh Hazlewood,3--21
+9,"March 29,2025","Narendra Modi Stadium, Ahmedabad",GT,MI,League,MI,Bowl,196,8,160,6,GT,36 runs,0,Prasidh Krishna,Sai Sudarshan,63,Prasidh Krishna,2--18
+10,"March 30,2025","ACA-VDCA Cricket Stadium, Vishakhapatnam",DC,SRH,League,SRH,Bat,163,10,166,3,DC,7 wickets,24,Mitchell Starc,Aniket Verma,74,Mitchell Starc,5--35
+11,"March 30,2025","Barsapara Stadium, Guwahati",RR,CSK,League,CSK,Bowl,182,9,176,6,RR,6 runs,0,Nitish Rana,Nitish Rana,81,Wanindu Hasranga,4--35
+12,"March 31,2025",Wankhede Stadium,MI,KKR,League,MI,Bowl,116,10,121,2,MI,8 wickets,43,Ashwani Kumar,Ryan Rickelton,62,Ashwani Kumar,4--24
+13,"April 01,2025","Ekana Cricket Stadium, Lucknow",LSG,PBKS,League,PBKS,Bowl,171,7,177,2,PBKS,8 wickets,22,Prabhsimran Singh,Prabhsimran Singh,69,Arshdeep Singh,3--43
+14,"April 02,2025","M. Chinnaswamy Stadium, Bangalore",RCB,GT,League,GT,Bowl,169,8,170,2,GT,8 wickets,13,Mohammed Siraj,Jos Buttler,73,Mohammed Siraj,3--19
+15,"April 03,2025","Eden Gardens, Kolkata",KKR,SRH,League,SRH,Bowl,200,6,120,10,KKR,80 runs,20,Vaibhav Arora,Venkatesh Iyer,60,Varun Chakravarthy,3--22
+16,"April 04,2025","Ekana Cricket Stadium, Lucknow",LSG,MI,League,MI,Bowl,203,8,191,5,LSG,12 runs,0,Digvesh Singh,Suryakumar Yadav,67,Hardik Pandya,5--36
+17,"April 05,2025","MA Chidambaram Stadium, Chennai",CSK,DC,League,DC,Bat,183,6,158,5,DC,25 runs,0,KL Rahul,KL Rahul,77,Khaleel Ahmed,2--25
+18,"April 05,2025","New PCA Cricket Stadium, Mullanpur",PBKS,RR,League,PBKS,Bowl,205,4,155,9,RR,50 runs,0,Jofra Archer,Yashasvi Jaiswal,67,Jofra Archer,3--25
+19,"April 06,2025","Rajiv Gandhi International Stadium, Hyderabad",SRH,GT,League,GT,Bowl,152,8,153,3,GT,7 wickets,20,Mohammed Siraj,Shubman Gill,61,Mohammed Siraj,4--17
+20,"April 07,2025",Wankhede Stadium,MI,RCB,League,MI,Bowl,221,5,209,9,RCB,12 runs,0,Rajat Patidar,Virat Kohli,67,Krunal Pandya,4--45
+21,"April 08,2025","Eden Gardens, Kolkata",KKR,LSG,League,KKR,Bowl,238,3,234,7,LSG,4 runs,0,Nicholas Pooran,Nicholas Pooran,87,Harshit Rana,2--51
+22,"April 08,2025","New PCA Cricket Stadium, Mullanpur",PBKS,CSK,League,PBKS,Bat,219,6,201,5,PBKS,18 runs,0,Priyansh Arya,Priyansh Arya,103,Lockie Ferguson,2--40
+23,"April 09,2025","Narendra Modi Stadium, Ahmedabad",GT,RR,League,RR,Bowl,217,6,159,10,GT,58 runs,4,Sai Sudarshan,Sai Sudarshan,82,Prasidh Krishna,3--24
+24,"April 10,2025","M. Chinnaswamy Stadium, Bangalore",RCB,DC,League,DC,Bowl,163,7,169,4,DC,6 wickets,13,KL Rahul,KL Rahul,93,Kuldeep Yadav,2--17
+25,"April 11,2025","MA Chidambaram Stadium, Chennai",CSK,KKR,League,KKR,Bowl,103,9,107,2,KKR,8 wickets,59,Sunil Narine,Sunil Narine,44,Sunil Narine,3--13
